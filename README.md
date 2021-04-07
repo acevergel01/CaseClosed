@@ -1,5 +1,6 @@
 # Case Closed
-<h2>A game by Syntax Terminators as a Final requirement to the subject <b>Computer Engineering Technology 3</b></h2>
+<h2>Description</h2>
+<p>A game by Syntax Terminators as a Final requirement to the subject <b>Computer Engineering Technology 3</b></p>
 
 <h2>Members:</h2>
 <ul>
