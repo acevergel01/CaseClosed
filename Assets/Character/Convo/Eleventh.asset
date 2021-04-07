@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a8619b9507b314dbfaf58ae3120774, type: 3}
+  m_Name: Eleventh
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+  speakerRight: {fileID: 11400000, guid: e470b475fdb25a240a468637941f637c, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Good day, Mr. Lis! I\u2019m a Detective and I\u2019m investigating your
+      wife\u2019s case. I\u2019m here to ask you a few questions."
+  - character: {fileID: 11400000, guid: e470b475fdb25a240a468637941f637c, type: 2}
+    text: Thank you for your hard work, Detective. Go ahead
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: Let me get straight to the point, Mr. Lis. You already know that your wife
+      is cheating on you with Mr. Hamm.
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "That\u2019s what explains your often disagreements with Mrs. Lis for the
+      past few weeks before the incident."
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "You were so furious that she is cheating on you that\u2019s why you burned
+      your house and killed your wife trapped inside it."
+  - character: {fileID: 11400000, guid: e470b475fdb25a240a468637941f637c, type: 2}
+    text: "I\u2019m sorry Detective, but your accusations are all wrong. How can I
+      possibly kill the girl who I married?"
+  - character: {fileID: 11400000, guid: e470b475fdb25a240a468637941f637c, type: 2}
+    text: "I love Liza so much I can\u2019t kill my wife. That\u2019s all I have to
+      say, Detective."
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Thank you, Mr. Lis. I will continue the investigation. We\u2019ll keep
+      you posted. Condolence, Mr. Lis."

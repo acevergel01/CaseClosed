@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a8619b9507b314dbfaf58ae3120774, type: 3}
+  m_Name: ThirdScene
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+  speakerRight: {fileID: 11400000, guid: 4735559d62d1a924fbe096f7f7b16193, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Excuse me sir, I\u2019m Detective Coco Dalisay. Would you mind if I ask
+      you a few questions?"
+  - character: {fileID: 11400000, guid: 4735559d62d1a924fbe096f7f7b16193, type: 2}
+    text: "I don\u2019t mind at all, Detective.\r"
+  - character: {fileID: 11400000, guid: 4735559d62d1a924fbe096f7f7b16193, type: 2}
+    text: "I am in that town when the incident happened. On my way home, I saw an
+      Antique seller enters the Lis\u2019 house. "
+  - character: {fileID: 11400000, guid: 4735559d62d1a924fbe096f7f7b16193, type: 2}
+    text: "I heard Mrs. Lis and the antique seller having an argument. I don\u2019t
+      remember what they\u2019re fighting about,"
+  - character: {fileID: 11400000, guid: 4735559d62d1a924fbe096f7f7b16193, type: 2}
+    text: "but in the end Mrs. Lis got the antique seller out of the house, and after
+      that I don\u2019t know what happened after."
+  - character: {fileID: 11400000, guid: 4735559d62d1a924fbe096f7f7b16193, type: 2}
+    text: My grandmother knows Mrs. Lis and according to her, she does not like collecting
+      antique items
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Is that so? Hmmmm\u2026. That antique seller is very suspicious. Do you
+      know who is this antique seller is? \r"
+  - character: {fileID: 11400000, guid: 4735559d62d1a924fbe096f7f7b16193, type: 2}
+    text: Yes, Detective. She had offered my grandmother one of her antiques before
+      and introduced herself as Ms. Fortune Green
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Thank you for your cooperation. Have a great day!\r"
+  - character: {fileID: 11400000, guid: 4735559d62d1a924fbe096f7f7b16193, type: 2}
+    text: "You\u2019re welcome, Detective! You too! Have a great day!\r"

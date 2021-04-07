@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a8619b9507b314dbfaf58ae3120774, type: 3}
+  m_Name: Seventh
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+  speakerRight: {fileID: 11400000, guid: 5c0eac7a5aea3854baefc17d252bb703, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Good day! I\u2019m Detective Coco Dalisay. Are you Mr. Grey Hamm?"
+  - character: {fileID: 11400000, guid: 5c0eac7a5aea3854baefc17d252bb703, type: 2}
+    text: Good Day, Detective. I am Mr. Hamm. What can I do for you?
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "I am handling the recent arson in townfore. Someone saw you before the
+      incident that you entered the Lis\u2019 residence."
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: You were looking for something. By the time Mrs. Lis arrived, you two had
+      an argument,
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "you were on your knees but still Mrs. Lis\u2019 gets you out of their house.
+      What is it that you were looking, Mr. Hamm?\r"
+  - character: {fileID: 11400000, guid: 5c0eac7a5aea3854baefc17d252bb703, type: 2}
+    text: I was looking for our photos together. She is blackmailing me. She said
+      that if I would not comply to her demands,
+  - character: {fileID: 11400000, guid: 5c0eac7a5aea3854baefc17d252bb703, type: 2}
+    text: she will send the photos to my wife. But now that my wife already knows
+      that, I guess there is no more point in lying.
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "That\u2019s why 3 days ago, you burned the Lis\u2019 residence along with
+      Mrs. Lis so that no one will know that you two had a relationship, right?\r"
+  - character: {fileID: 11400000, guid: 5c0eac7a5aea3854baefc17d252bb703, type: 2}
+    text: "I can\u2019t do that to her, Detective. She may have blackmailed me, but
+      I can\u2019t kill her. "
+  - character: {fileID: 11400000, guid: 5c0eac7a5aea3854baefc17d252bb703, type: 2}
+    text: "I don\u2019t know if this is relevant to the case but I happened to bump
+      on her sister on my way out of the house.\r"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Thank you for your cooperation Mr. Hamm. As of now, I don\u2019t have a
+      choice but to trust in your words."
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: " We\u2019ll keep you posted. I will further investigate this case. Have
+      a great day, Mr. Hamm!"
+  - character: {fileID: 11400000, guid: 5c0eac7a5aea3854baefc17d252bb703, type: 2}
+    text: Thank you, Detective! Have a great day!

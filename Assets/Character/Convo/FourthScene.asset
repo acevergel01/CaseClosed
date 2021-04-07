@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a8619b9507b314dbfaf58ae3120774, type: 3}
+  m_Name: FourthScene
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+  speakerRight: {fileID: 11400000, guid: df188286906b40648a1ca09e4c63abc0, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Good Day! Can I ask you a question? I\u2019m Detective Coco Dalisay, and
+      you are?\r"
+  - character: {fileID: 11400000, guid: df188286906b40648a1ca09e4c63abc0, type: 2}
+    text: "Mikasa. Sure, go ahead, Detective. What can I help you with?\r"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Do you know any antique seller named Fortune Green?\r"
+  - character: {fileID: 11400000, guid: df188286906b40648a1ca09e4c63abc0, type: 2}
+    text: I do know her, Detective. I have been into her shop to buy some antiques
+      for our newly constructed house
+  - character: {fileID: 11400000, guid: df188286906b40648a1ca09e4c63abc0, type: 2}
+    text: Her father was a fire fighter who passed away because of a fire incident
+      in Wanfore.
+  - character: {fileID: 11400000, guid: df188286906b40648a1ca09e4c63abc0, type: 2}
+    text: "She is now all alone without any family or relatives. She sells antiques
+      to provide for his day to day needs.\r"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Can you tell me where can I find her shop?\r\n"
+  - character: {fileID: 11400000, guid: df188286906b40648a1ca09e4c63abc0, type: 2}
+    text: "It\u2019s located at the Public Market of this town. "
+  - character: {fileID: 11400000, guid: df188286906b40648a1ca09e4c63abc0, type: 2}
+    text: "I really can\u2019t remember the exact location of the store but that is
+      the only antique store in the public market"
+  - character: {fileID: 11400000, guid: df188286906b40648a1ca09e4c63abc0, type: 2}
+    text: "You won\u2019t have a hard time finding it there, Detective.\r"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Okay! Thank you! Have a good day!\r"

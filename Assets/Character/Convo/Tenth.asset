@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a8619b9507b314dbfaf58ae3120774, type: 3}
+  m_Name: Tenth
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+  speakerRight: {fileID: 11400000, guid: 262fbb7a39590f542989f28b6f119ec5, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: Good day! Would you mind if I ask you a few questions, miss?
+  - character: {fileID: 11400000, guid: 262fbb7a39590f542989f28b6f119ec5, type: 2}
+    text: "Ms. Christa. I wouldn\u2019t mind. What can I do for you?"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "I\u2019m Detective Coco, I\u2019m handling the arson in treefore. Do you
+      know anything about the husband of Mrs. Lis?"
+  - character: {fileID: 11400000, guid: 262fbb7a39590f542989f28b6f119ec5, type: 2}
+    text: "Oh! I see. Sir Wah is a regular to our shop. He loves to collect figurines.
+      He\u2019s the first one to buy when there's new arrival"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: is that so? Do you know where can I find Mr. Lis? I want to ask him a few
+      questions.
+  - character: {fileID: 11400000, guid: 262fbb7a39590f542989f28b6f119ec5, type: 2}
+    text: "The last time that he went here, he said that he is at his parent\u2019s
+      house in the treefore since their house is being investigated"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: Okay, thank you Christa! Have a great day!
+  - character: {fileID: 11400000, guid: 262fbb7a39590f542989f28b6f119ec5, type: 2}
+    text: Anytime, detective! Have a great day!

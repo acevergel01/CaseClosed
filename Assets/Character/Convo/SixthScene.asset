@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a8619b9507b314dbfaf58ae3120774, type: 3}
+  m_Name: SixthScene
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+  speakerRight: {fileID: 11400000, guid: 975453cb016b5b54187743fb7f985010, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 975453cb016b5b54187743fb7f985010, type: 2}
+    text: Good day, Detective! I am Jean. I just happened to pass by when I heard
+      you and Ms. Green talking...
+  - character: {fileID: 11400000, guid: 975453cb016b5b54187743fb7f985010, type: 2}
+    text: "about the serial arson crime in town Treefore. I don\u2019t think Ms. Green
+      is the killer.\r"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: Why can you so, Jean?
+  - character: {fileID: 11400000, guid: 975453cb016b5b54187743fb7f985010, type: 2}
+    text: "Few days before the incident. I have seen Mr. Grey Hamm in the Lis\u2019
+      residence and it looks like he is finding something in the house."
+  - character: {fileID: 11400000, guid: 975453cb016b5b54187743fb7f985010, type: 2}
+    text: Mrs. Lis arrived, and saw him and they started arguing. he was on his knees
+      before she decided to get him leave
+  - character: {fileID: 11400000, guid: 975453cb016b5b54187743fb7f985010, type: 2}
+    text: I also heard rumors that they both are having an affair with their partners.
+      The crime must be related to what he was finding.
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: Do you know where can I find this Mr. Hamm that you are talking about?
+  - character: {fileID: 11400000, guid: 975453cb016b5b54187743fb7f985010, type: 2}
+    text: Since the news came out about the incident rumors start spreading about
+      his relationship with the victim
+  - character: {fileID: 11400000, guid: 975453cb016b5b54187743fb7f985010, type: 2}
+    text: His wife gets him out of their house. He now lives alone in an apartment
+      near a bar.
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: Thank you for that information. Have a good day, Jean!
+  - character: {fileID: 11400000, guid: 975453cb016b5b54187743fb7f985010, type: 2}
+    text: "You\u2019re welcome, Detective!"

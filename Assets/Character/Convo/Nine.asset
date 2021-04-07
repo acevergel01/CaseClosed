@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a8619b9507b314dbfaf58ae3120774, type: 3}
+  m_Name: Nine
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+  speakerRight: {fileID: 11400000, guid: a4daf147234cc054c86c275d155a530a, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: " I\u2019m Detective Coco Dalisay. I wish to speak to Ms. Liza Lis\u2019
+      sister.\t"
+  - character: {fileID: 11400000, guid: a4daf147234cc054c86c275d155a530a, type: 2}
+    text: "Hello there, Detective! I\u2019m Pandy Sal, the sister of Liza Lis. I supposed
+      you are here to investigate the case."
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Yes, I\u2019m handling the case. Is it true that you and Mr. Hamm bump
+      on each other in her house few days ago?"
+  - character: {fileID: 11400000, guid: a4daf147234cc054c86c275d155a530a, type: 2}
+    text: Yes, that is true Detective.
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: What is your reason why are you there, Ms. Sal?
+  - character: {fileID: 11400000, guid: a4daf147234cc054c86c275d155a530a, type: 2}
+    text: "I\u2019m there to borrow money from my sister. My business is going bankrupt
+      and I will use her money , but\u2026"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "But she didn\u2019t lend you money, right? That\u2019s why you burn up
+      their house killing her in the process,"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: because you knew that once she is gone, you will inherit some of her assets
+      that your late parents left
+  - character: {fileID: 11400000, guid: a4daf147234cc054c86c275d155a530a, type: 2}
+    text: "I\u2019m not the one who did it. It\u2019s true that I will inherit half
+      of my sister\u2019s wealth but what about the other half?"
+  - character: {fileID: 11400000, guid: a4daf147234cc054c86c275d155a530a, type: 2}
+    text: Why are you blaming it on me?Her husband will inherit my her wealth too.
+      Besides, they've been fighting a lot in the past few weeks.
+  - character: {fileID: 11400000, guid: a4daf147234cc054c86c275d155a530a, type: 2}
+    text: "She always tells me how they would end up an argument. I can\u2019t kill
+      her. I can\u2019t kill my only family.\r"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Thank you for your cooperation, Ma\u2019am! I will look closely to your
+      sister\u2019s case."
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "I will keep you updated. One more thing, where can I find Mr. Lis? I have
+      a few questions to him.\r"
+  - character: {fileID: 11400000, guid: a4daf147234cc054c86c275d155a530a, type: 2}
+    text: "We\u2019re not that fond of each other ever since. But the lady near my
+      store. She knows something that might help"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: Thank you, Ms. Sal. Condolence!

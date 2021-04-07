@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a8619b9507b314dbfaf58ae3120774, type: 3}
+  m_Name: FifthScene
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+  speakerRight: {fileID: 11400000, guid: beb10e58a7ac4b147be92f1e83d6763d, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Good Day Miss! I\u2019m looking for the owner of this shop. Are you Ms.
+      Green?\r"
+  - character: {fileID: 11400000, guid: beb10e58a7ac4b147be92f1e83d6763d, type: 2}
+    text: "I\u2019m the owner of this shop. I\u2019m Fortune Green, nice to meet you.
+      What can I do for you, Sir?\r"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "I\u2019m Detective Coco Dalisay. I\u2019m investigating the recent serial
+      arson crime in Town Treefore, "
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "and someone had seen you enter the victim\u2019s house the same day the
+      incident happened. "
+  - character: {fileID: 11400000, guid: beb10e58a7ac4b147be92f1e83d6763d, type: 2}
+    text: "It\u2019s true that I entered the house of Mr. and Mrs. Lis that day, but
+      I\u2019m only there just to sell my antiques"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "Mrs. Lis doesn\u2019t like antiques, right? And when she didn\u2019t buy
+      anything from you that\u2019s when things started to get out of hand. "
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "She gets you out of the house and that\u2019s when you burned it along
+      with Mrs. Lis inside it.\r"
+  - character: {fileID: 11400000, guid: beb10e58a7ac4b147be92f1e83d6763d, type: 2}
+    text: "What? No! I wouldn\u2019t do such a thing. You\u2019re accusing me just
+      because Mrs. Lis didn\u2019t buy any of my antiques,"
+  - character: {fileID: 11400000, guid: beb10e58a7ac4b147be92f1e83d6763d, type: 2}
+    text: "and that\u2019s supposed to be my motive why I possibly burned the house
+      and killed her in the process?"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: "That\u2019s not all. You burned the house thinking that your late father
+      might come and save Mrs. Lis from the fire."
+  - character: {fileID: 11400000, guid: beb10e58a7ac4b147be92f1e83d6763d, type: 2}
+    text: "I\u2019m sorry. It\u2019s true that I\u2019m still moving on from my father\u2019s
+      death, but I didn\u2019t do it. I\u2019m not the one who killed her"
+  - character: {fileID: 11400000, guid: 85015eda900152a42b0f78a0a14db222, type: 2}
+    text: We will keep you in touch. Thank you for your cooperation
+  - character: {fileID: 11400000, guid: beb10e58a7ac4b147be92f1e83d6763d, type: 2}
+    text: "Thank you Detective!\r\n"
